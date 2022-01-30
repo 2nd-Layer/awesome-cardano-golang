@@ -55,6 +55,7 @@ Cardano intends to be a Social and Financial Operating System. Golang is a multi
 - [go-ouroboros-network](https://github.com/cloudstruct/go-ouroboros-network) - A Go client implementation of the Cardano Ouroboros protocol
 
 ### Data Serialization
+- [libada-go](https://github.com/Bitrue-exchange/libada-go) - Golang library for Cardano, used and maintained by Bitrue Exchange
 
 ### Wallet Primitives
 
