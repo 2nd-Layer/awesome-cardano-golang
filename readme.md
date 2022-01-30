@@ -27,7 +27,7 @@ Cardano intends to be a Social and Financial Operating System. Golang is a multi
 
 - [Companies & Teams](#companies--teams)
 - [Tools](#tools)
-- [Crates](#crates)
+- [Crates](#modules)
 - [Notable Legacy](#notable-legacy)
 - [Follow](#follow)
 
@@ -50,6 +50,11 @@ Cardano intends to be a Social and Financial Operating System. Golang is a multi
 ### Node Implementations
 
 ## Modules
+
+### Off-chain data sources SDKs
+
+#### Blockfrost
+- [blockfrost-go](https://github.com/blockfrost/blockfrost-go) - Golang SDK for Blockfrost.io
 
 ### Networking Protocols
 - [go-ouroboros-network](https://github.com/cloudstruct/go-ouroboros-network) - A Go client implementation of the Cardano Ouroboros protocol
