@@ -40,6 +40,9 @@ Cardano intends to be a Social and Financial Operating System. Golang is a multi
 
 ## Tools
 
+### Plutus Application Backends
+- [pab-go](https://github.com/minswap/pab-go) - Plutus Application Backend (PAB) in Go
+
 ### SPO Tools
 
 ### Explorer Tools
