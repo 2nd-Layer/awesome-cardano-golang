@@ -39,6 +39,7 @@ Cardano intends to be a Social and Financial Operating System. Golang is a multi
 ## Companies & Teams
 
 ## Tools
+- [libada-go](https://github.com/Bitrue-exchange/libada-go) - Golang library for Cardano, used and maintained by Bitrue Exchange
 
 ### Plutus Application Backends
 - [pab-go](https://github.com/minswap/pab-go) - Plutus Application Backend (PAB) in Go
