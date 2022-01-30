@@ -27,7 +27,7 @@ Cardano intends to be a Social and Financial Operating System. Golang is a multi
 
 - [Companies & Teams](#companies--teams)
 - [Tools](#tools)
-- [Crates](#modules)
+- [Modules](#modules)
 - [Notable Legacy](#notable-legacy)
 - [Follow](#follow)
 
