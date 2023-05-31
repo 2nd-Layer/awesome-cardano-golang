@@ -35,6 +35,7 @@ Cardano intends to be a Social and Financial Operating System. Golang is a multi
 
 ## Other Awesome Cardano Lists
 - [Awesome Cardano Rust](https://github.com/2nd-Layer/awesome-cardano-rust)
+- [Awesome Cardano Java](https://github.com/Cardano-Fans/Awesome-Cardano-With-Java)
 
 ## Companies & Teams
 
